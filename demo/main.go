@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	. "stardust_pipeline"
+	. "github.com/realjustice/stardust_pipeline"
 	"strconv"
 	"time"
 )
