@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	. "pipe"
+	. "stardust_pipeline"
 	"strconv"
 	"time"
 )
